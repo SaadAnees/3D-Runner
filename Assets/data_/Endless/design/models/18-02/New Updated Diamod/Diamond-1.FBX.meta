@@ -1,0 +1,184 @@
+fileFormatVersion: 2
+guid: 7ff29b934d3b34a96835c471bffdaaa4
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Diamond-01
+    100002: Diamond-02
+    100004: Diamond-03
+    100006: Diamond-04
+    100008: Diamond-05
+    100010: Diamond-06
+    100012: Diamond-07
+    100014: Diamond-08
+    100016: Diamond-09
+    100018: //RootNode
+    100020: Diamond-10
+    100022: Diamond-11
+    100024: Diamond-12
+    100026: Diamond-13
+    100028: Diamond-14
+    100030: Diamond-15
+    100032: Diamond-16
+    100034: Diamond-17
+    100036: Diamond-18
+    400000: Diamond-01
+    400002: Diamond-02
+    400004: Diamond-03
+    400006: Diamond-04
+    400008: Diamond-05
+    400010: Diamond-06
+    400012: Diamond-07
+    400014: Diamond-08
+    400016: Diamond-09
+    400018: //RootNode
+    400020: Diamond-10
+    400022: Diamond-11
+    400024: Diamond-12
+    400026: Diamond-13
+    400028: Diamond-14
+    400030: Diamond-15
+    400032: Diamond-16
+    400034: Diamond-17
+    400036: Diamond-18
+    2100000: 11 - Default
+    2300000: Diamond-01
+    2300002: Diamond-02
+    2300004: Diamond-03
+    2300006: Diamond-04
+    2300008: Diamond-05
+    2300010: Diamond-06
+    2300012: Diamond-07
+    2300014: Diamond-08
+    2300016: Diamond-09
+    2300018: Diamond-10
+    2300020: Diamond-11
+    2300022: Diamond-12
+    2300024: Diamond-13
+    2300026: Diamond-14
+    2300028: Diamond-15
+    2300030: Diamond-16
+    2300032: Diamond-17
+    2300034: Diamond-18
+    3300000: Diamond-01
+    3300002: Diamond-02
+    3300004: Diamond-03
+    3300006: Diamond-04
+    3300008: Diamond-05
+    3300010: Diamond-06
+    3300012: Diamond-07
+    3300014: Diamond-08
+    3300016: Diamond-09
+    3300018: Diamond-10
+    3300020: Diamond-11
+    3300022: Diamond-12
+    3300024: Diamond-13
+    3300026: Diamond-14
+    3300028: Diamond-15
+    3300030: Diamond-16
+    3300032: Diamond-17
+    3300034: Diamond-18
+    4300000: Diamond-01
+    4300002: Diamond-02
+    4300004: Diamond-03
+    4300006: Diamond-04
+    4300008: Diamond-05
+    4300010: Diamond-06
+    4300012: Diamond-07
+    4300014: Diamond-08
+    4300016: Diamond-09
+    4300018: Diamond-10
+    4300020: Diamond-11
+    4300022: Diamond-12
+    4300024: Diamond-13
+    4300026: Diamond-15
+    4300028: Diamond-16
+    4300030: Diamond-14
+    4300032: Diamond-17
+    4300034: Diamond-18
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
